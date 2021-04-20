@@ -24,9 +24,10 @@ p {
   <a href="https://www.nationalgallery.org.uk/">Лондонская национальная галерея</a>
 </nav>
         
- <body bgcolor="grey">
+ <body bgcolor="grey">![шар](https://user-images.githubusercontent.com/82550773/115388865-12cdec00-a1e5-11eb-9f5e-e31421708aac.jpg)
+
 	<h1> <span style="color:red;">Мауриц Корнелис Эшер </span> </h1>
-        <left> <img src=шар.jpg style="width:300px;> </left>
+        <left> <img src=шар.jpg style="width:300px;> </left>htt
        
 	<h2>Жизнь и творчество</h2>
 	
